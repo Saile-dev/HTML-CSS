@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1{
+    background-color: rgb(250, 255, 109);
+    text-align: center;
+    color: rgb(3, 223, 247);
+}
+p{
+    text-align: justify;
+}
+#primeira{
+    text-align: laft;
+}
